@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Respo for an Ecommerce Website</h3>
+  <h3 align="center">Repo of an Ecommerce Website</h3>
 </p>
 
 
